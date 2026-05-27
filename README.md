@@ -1,6 +1,6 @@
 <div style="font-family: 'Times New Roman', Times, serif;">
 
-# 🏄 Alex__dem0n
+# ⬛ Alex__dem0n
 
 ![](https://img.shields.io/badge/Informatics_Engineering_Student-2c2c2c?style=flat-square)
 
