@@ -63,7 +63,7 @@
   <a href="https://instagram.com/alex__dem0n" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
   </a>&nbsp;&nbsp;
-  <a href="https://discord.gg/alex__dem0n" target="blank">
+  <a href="https://discord.com/users/1030880122196213830" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="32" width="32" />
   </a>
 </p>
