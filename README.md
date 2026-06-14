@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/Informatics_Engineering_Student-2c2c2c?style=flat-square)
 
 <p style="font-size: 1.1em; line-height: 1.6;">
-I'm a Venezuelan Informatics Engineering Student. Powered by caffeine, Linux config files, and problem-solving. Always diving deep into security and systems.
+I'm a Venezuelan Informatics Engineering Student. Powered by caffeine, Linux config files, and problem-solving. Always diving deep into security and systems. and yes, i prefer to make a web page for a week than making a canva presentation in an hour.
 </p>
 
 ---
